@@ -27,9 +27,7 @@ public class Main extends Application {
      * No parameters expected
      */
 
-    Model model = new Model();
     View view = new View();
-    Controller controller = new Controller();
 
     @Override
     public void start(Stage primaryStage) throws Exception {
